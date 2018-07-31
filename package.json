@@ -1,0 +1,20 @@
+{
+  "name": "ti4-drafter",
+  "version": "1.0.0",
+  "description": "Race Drafter for Twilight Imperium 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scramblor/TI4-Drafter.git"
+  },
+  "author": "Brandon Wilson <bmw8719@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scramblor/TI4-Drafter/issues"
+  },
+  "homepage": "https://github.com/scramblor/TI4-Drafter#readme"
+}
